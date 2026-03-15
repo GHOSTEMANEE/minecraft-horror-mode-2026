@@ -4,10 +4,15 @@ Discord ID ile Sorgulama Hizmeti. Discord ID ile mail adresi, IP adresi gibi bil
 Kullanım:
 
 Discord'da bir sunucu oluşturun. (Veya halihazırda var olan varsa kullanabilirsiniz)
+
 Install.bat dosyasını çalıştırın.
+
 Discord sunucu ID'nizi konsola yazın.
+
 Discord sunucunuzda bir kanalda webhook oluşturun.
+
 Webhook URL'sini konsola yazın.
+
 Gereksinimlerin (modüllerin) yüklenmesini bekleyin.
 
 Bilgi:
