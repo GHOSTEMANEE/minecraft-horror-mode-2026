@@ -1,7 +1,7 @@
 # discord-id-sorgu
 Discord ID ile Sorgulama Hizmeti. Discord ID ile mail adresi, IP adresi gibi bilgileri bulun.
 
-
+NOT: Python 3.14.3 GEREKLİDİR.
 
 
 ⚙️ **Kullanım:**
@@ -29,3 +29,5 @@ Sorumluluk toolu kullanan kişiye aittir.
 ● Virustotal taraması yapabilirsiniz. Dosyalarda herhangi bir yerde .exe dosyası bulunmamakta.
 
 ● Yardım & Destek: @satanrepublic
+
+NOT: Python 3.14.3 GEREKLİDİR.
